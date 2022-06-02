@@ -6,4 +6,4 @@ Drive over the yellow circle for a speed boost! Run into objects and lose speed.
 Press the "Escape" key to quit.  
   
 Sprite assets provided by GameDev.tv through their online Udemy course Complete C# Unity Game Developer 2D.  
-Credit to bensound.com for their royalty-free game music.
+Credit to Bensound.com for their royalty-free game music.
